@@ -34,7 +34,7 @@ Se ejecutan *scripts* específicos para obtener información de *login* o detall
 ---
 
 ## 4. Flujo de Trabajo y Transición (Nmap → Metasploit)
-![Diagrama de flujo (ruta)](arsenal-analista-nmap-msf/Flujo Visual del Proceso.png)
+![Diagrama de flujo (ruta)](CheatSheet-profesional/Flujo Visual del Proceso.png)
 
 Esta sección detalla el procedimiento para importar los datos de Nmap a la base de datos de Metasploit, automatizando el proceso de *targeting*.
 
