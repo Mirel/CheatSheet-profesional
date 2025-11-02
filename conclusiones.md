@@ -69,4 +69,4 @@ El recurso desarrollado constituye un **CheatSheet profesional** y una **guía p
 ---
 
 🧠 *“El buen analista no se limita a ejecutar herramientas, sino que entiende los datos que produce y los convierte en conocimiento útil.”*  
-© 2025 Mirelle [Tu Apellido]
+© 2025 Mirelle Candida Silva
